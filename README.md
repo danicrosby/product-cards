@@ -1,16 +1,33 @@
-# product-cards
+# project-setup
+
 README.MD SETUP
 
-DATE: Jan 2021
+
+DATE: JAN 2021
 
 
-PROJECT NAME: Product Cards
+PROJECT NAME: Products Cards
 
 
-PROJECT OVERVIEW: Product cards displaying info about product
+PROJECT OVERVIEW: Cards to display product info
 
 
-WIREFRAME: 
+MOTIVATION: Class assignment
+
+
+LANGUAGE: Vanilla JS
+
+
+API: N/A
+
+
+HOW TO TEST: Responsive design
+
+
+HOW TO USE: Display only
+
+
+WIREFRAME:
 
 
 LOOM VIDEO DEMO:
@@ -22,13 +39,21 @@ NELIFY WEBSITE: https://danicrosby-productpage.netlify.app/
 PROJECT BOARD:
 
 
-USER STORY:
+USER STORY: When a user nagivates to the site they see 6 cards with
+product information
 
 
-FEATURES:
+FEATURES: Flebox, Responsive desing
 
 
 SCREENSHOTS:
 
 
-CONTRIBUTORS | Github approvals from:
+CONTRIBUTORS:
+
+
+CREDITS:
+
+
+© Dani Crosby
+
