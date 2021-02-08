@@ -27,16 +27,7 @@ HOW TO TEST: Responsive design
 HOW TO USE: Display only
 
 
-WIREFRAME:
-
-
-LOOM VIDEO DEMO:
-
-
 NELIFY WEBSITE: https://danicrosby-productpage.netlify.app/
-
-
-PROJECT BOARD:
 
 
 USER STORY: When a user nagivates to the site they see 6 cards with
@@ -46,13 +37,15 @@ product information
 FEATURES: Flebox, Responsive desing
 
 
-SCREENSHOTS:
+SCREENSHOTS: 
+<img width="1421" alt="Screen Shot 2021-02-08 at 3 17 03 PM" src="https://user-images.githubusercontent.com/68397076/107282663-e8abc100-6a20-11eb-86c3-d23ec9d00091.png">
 
 
-CONTRIBUTORS:
-
-
-CREDITS:
+CONTRIBUTORS: (As GH Approvals)
+Holly Parsons
+Ellie Walker
+Sara Schoonover
+Taylor Hardaway
 
 
 © Dani Crosby
